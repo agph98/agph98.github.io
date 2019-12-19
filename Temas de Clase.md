@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Biografia
+title: Temas Vistos en Clase
 ---
 
 ### Fundamentos a la Ingeniería de Software 
