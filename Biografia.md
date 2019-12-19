@@ -5,8 +5,6 @@ title: Biografia
 
 ### Mi nombre es Axel Guillermo Posligua Herrera
 
-![alt text](https://www.facebook.com/photo.php?fbid=2755266581164712&set=a.153082738049789&type=3&theater "Logo Title Text 1")
-
 Nací el 15 de Julio de 1998 en la ciudad de Vinces, mis padres son: José Guillermo Posligua 
 Pincay y Sandra Pastora Herrera Vera, toda mi vida he vivido en la 
 ciudad de Vinces, en donde hice mis primeros estudios en la Escuela Dr. 
